@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+{% load static %}
+{% load i18n %}
+
+<head>
+    <meta charset="UTF-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    
+    <title>Portfolio Details</title>
+    <meta content="Adrian Dolca" name="author">
+    <meta content="{% translate "Junior Web Developer, Entrepreneur and Real Estate Consultant with a passion for technology and innovation. Strong experience in web development, automating administrative tasks and effective team collaboration. Graduate of the Software Development Academy, specialized in Python and hands-on experience in Django, SQL and web application development." %}" name="description">
+    <meta content="adrian dolca, curriculum vitae, cv, python, django, sql, html, css, javascript, leadership, {% translate "web development, automation, real estate consultant, entrepreneurship, musician, team collaboration, problem-solving, creativity" %}" name="keywords">
+    
+    <!-- Favicons -->
+    <link href="{% static "img/favicon.png" %}" rel="icon">
+    <link href="{% static "img/apple-touch-icon.png" %}" rel="apple-touch-icon">
+    
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
+          rel="stylesheet">
+    
+    <!-- Vendor CSS Files -->
+    <link href="{% static "vendor/aos/aos.css" %}" rel="stylesheet">
+    <link href="{% static "vendor/bootstrap/css/bootstrap.min.css" %}" rel="stylesheet">
+    <link href="{% static "vendor/bootstrap-icons/bootstrap-icons.css" %}" rel="stylesheet">
+    <link href="{% static "vendor/boxicons/css/boxicons.min.css" %}" rel="stylesheet">
+    <link href="{% static "vendor/glightbox/css/glightbox.min.css" %}" rel="stylesheet">
+    <link href="{% static "vendor/swiper/swiper-bundle.min.css" %}" rel="stylesheet">
+    
+    <!-- Template Main CSS File -->
+    <link href="{% static "css/style.css" %}" rel="stylesheet">
+</head>
+
+<body>
+
+<main id="main">
+    
+    <!-- ======== Portfolio Details Section ======== -->
+    <section id="portfolio-details" class="portfolio-details">
+        <div class="container">
+            
+            <div class="row gy-4">
+                
+                <div class="col-lg-8">
+                    <div class="portfolio-details-slider swiper">
+                        <div class="swiper-wrapper align-items-center">
+                            
+                            <div class="swiper-slide">
+                                <img src="{% static "img/portfolio/portfolio-details/portfolio-details-1.jpeg" %}" alt="">
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <img src="{% static "img/portfolio/portfolio-details/portfolio-details-2.jpeg" %}" alt="">
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <img src="{% static "img/portfolio/portfolio-details/portfolio-details-3.jpeg" %}" alt="">
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <img src="{% static "img/portfolio/portfolio-details/portfolio-details-4.jpeg" %}" alt="">
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <img src="{% static "img/portfolio/portfolio-details/portfolio-details-5.jpeg" %}" alt="">
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <img src="{% static "img/portfolio/portfolio-details/portfolio-details-6.jpeg" %}" alt="">
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <img src="{% static "img/portfolio/portfolio-details/portfolio-details-7.jpeg" %}" alt="">
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <img src="{% static "img/portfolio/portfolio-details/portfolio-details-8.jpeg" %}" alt="">
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <img src="{% static "img/portfolio/portfolio-details/portfolio-details-9.jpeg" %}" alt="">
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <img src="{% static "img/portfolio/portfolio-details/portfolio-details-10.jpeg" %}" alt="">
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <img src="{% static "img/portfolio/portfolio-details/portfolio-details-11.jpeg" %}" alt="">
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <img src="{% static "img/portfolio/portfolio-details/portfolio-details-12.jpeg" %}" alt="">
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <img src="{% static "img/portfolio/portfolio-details/portfolio-details-13.jpeg" %}" alt="">
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <img src="{% static "img/portfolio/portfolio-details/portfolio-details-14.jpeg" %}" alt="">
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <img src="{% static "img/portfolio/portfolio-details/portfolio-details-15.jpeg" %}" alt="">
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <img src="{% static "img/portfolio/portfolio-details/portfolio-details-16.jpeg" %}" alt="">
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <img src="{% static "img/portfolio/portfolio-details/portfolio-details-17.jpeg" %}" alt="">
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <img src="{% static "img/portfolio/portfolio-details/portfolio-details-18.jpeg" %}" alt="">
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <img src="{% static "img/portfolio/portfolio-details/portfolio-details-19.jpeg" %}" alt="">
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <img src="{% static "img/portfolio/portfolio-details/portfolio-details-20.jpeg" %}" alt="">
+                            </div>
+                            
+                        </div>
+                        <div class="swiper-pagination"></div>
+                    </div>
+                </div>
+                
+                <div class="col-lg-4">
+                    
+                    <div class="portfolio-info">
+                        <h3>{% translate "Project Information" %}</h3>
+                        <ul>
+                            <li><strong>{% translate "Category" %}</strong>: {% translate "Customer Relationship Management System" %}</li>
+                            <li><strong>{% translate "Framework" %}</strong>: Django</li>
+                            <li><strong>GitHub</strong>: <a href="https://github.com/dolca/crmSystem" target="_blank">
+                                CRM System</a></li>
+                        </ul>
+                    </div>
+                    
+                    <div class="portfolio-description">
+                        <h2>CRM System</h2>
+                        <p>{% translate "An efficient real estate CRM, designed to facilitate the management of properties, requests, contacts and tasks, being an indispensable tool for real estate agents and professionals in the field." %}</p>
+                    </div>
+                    
+                </div>
+                
+            </div>
+            
+        </div><!-- End container -->
+    </section><!-- End Portfolio Details Section -->
+    
+</main><!-- End #main -->
+
+<div id="preloader"></div>
+<a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+<!-- Vendor JS Files -->
+<script src="{% static "vendor/purecounter/purecounter_vanilla.js" %}"></script>
+<script src="{% static "vendor/aos/aos.js" %}"></script>
+<script src="{% static "vendor/bootstrap/js/bootstrap.bundle.min.js" %}"></script>
+<script src="{% static "vendor/glightbox/js/glightbox.min.js" %}"></script>
+<script src="{% static "vendor/isotope-layout/isotope.pkgd.min.js" %}"></script>
+<script src="{% static "vendor/swiper/swiper-bundle.min.js" %}"></script>
+<script src="{% static "vendor/typed.js/typed.umd.js" %}"></script>
+<script src="{% static "vendor/waypoints/noframework.waypoints.js" %}"></script>
+
+<!-- Template Main JS Files -->
+<script src="{% static "js/main.js" %}"></script>
+<script src="{% static "js/validate.js" %}"></script>
+
+</body>
+
+</html>

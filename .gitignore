@@ -1,0 +1,8 @@
+# .gitignore
+
+*scss
+.dockerignore
+.env
+*.sqlite3
+Dockerfile
+fly.toml

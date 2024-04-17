@@ -1,0 +1,734 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-04-14 13:52+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?"
+"2:1));\n"
+
+#: templates/base.html:12 templates/portfolio_details.html:12
+msgid ""
+"Junior Web Developer, Entrepreneur and Real Estate Consultant with a passion "
+"for technology and innovation. Strong experience in web development, "
+"automating administrative tasks and effective team collaboration. Graduate "
+"of the Software Development Academy, specialized in Python and hands-on "
+"experience in Django, SQL and web application development."
+msgstr ""
+"Dezvoltator Web Junior, Antreprenor și Consultant Imobiliar cu o pasiune "
+"pentru tehnologie și inovație. Experiență puternică în dezvoltarea web, "
+"automatizarea sarcinilor administrative și colaborarea eficientă în echipă. "
+"Absolvent al ”Software Development Academy”, specializat în Python și "
+"experiență practică în Django, SQL și dezvoltare de aplicații web."
+
+#: templates/base.html:13 templates/portfolio_details.html:13
+msgid ""
+"web development, automation, real estate consultant, entrepreneurship, "
+"musician, team collaboration, problem-solving, creativity"
+msgstr ""
+"dezvoltare web, automatizare, consultant imobiliar, antreprenoriat, "
+"muzician, colaborare in echipa, rezolvare de probleme, creativitate"
+
+#: templates/base.html:45
+msgid "Home"
+msgstr "Acasă"
+
+#: templates/base.html:47 templates/base.html:89
+msgid "About"
+msgstr "Despre"
+
+#: templates/base.html:49 templates/base.html:270
+msgid "Resume"
+msgstr "Rezumat"
+
+#: templates/base.html:51 templates/base.html:390
+msgid "Portfolio"
+msgstr "Portofoliu"
+
+#: templates/base.html:53 templates/base.html:631
+msgid "Services"
+msgstr "Servicii"
+
+#: templates/base.html:57 templates/base.html:292
+msgid "English"
+msgstr "Engleză"
+
+#: templates/base.html:59
+msgid "Romanian"
+msgstr "Română"
+
+#: templates/base.html:68
+msgid "I'm"
+msgstr "Sunt"
+
+#: templates/base.html:69 templates/base.html:100
+msgid "Junior Web Developer"
+msgstr "Dezvoltator Web Junior"
+
+#: templates/base.html:69
+msgid "Entrepreneur"
+msgstr "Antreprenor"
+
+#: templates/base.html:69 templates/base.html:334
+msgid "Real Estate Consultant"
+msgstr "Consultant Imobiliar"
+
+#: templates/base.html:69
+msgid "Musician"
+msgstr "Muzician"
+
+#: templates/base.html:90
+msgid ""
+"I define myself as a person who develops and evolves through hard work and a "
+"passion for continuous learning. I am meticulous in organization, detail-"
+"oriented and an effective collaborator, adding value to any team due to my "
+"excellent communication and collaboration skills."
+msgstr ""
+"Mă definesc ca o persoană care se dezvoltă și evoluează prin muncă asiduă și "
+"pasiune pentru învățarea continuă. Sunt meticulos în organizare, orientat "
+"spre detalii și un colaborator eficient, adăugând valoare oricărei echipe "
+"datorită abilităților mele excelente de comunicare și colaborare."
+
+#: templates/base.html:102
+msgid ""
+"Everything goes exactly the way you want it to, when you don't know you "
+"can't."
+msgstr "Totul merge exact așa cum îți dorești, atunci când nu știi că nu poți."
+
+#: templates/base.html:109
+msgid "Birthday"
+msgstr "Zi de naștere"
+
+#: templates/base.html:110
+msgid "1 October 1991"
+msgstr "1 Octombrie 1991"
+
+#: templates/base.html:111
+msgid "Age"
+msgstr "Vârstă"
+
+#: templates/base.html:113
+msgid "Courses"
+msgstr "Cursuri"
+
+#: templates/base.html:114 templates/base.html:309
+msgid "Romania"
+msgstr "România"
+
+#: templates/base.html:115
+msgid "Degree"
+msgstr "Studii"
+
+#: templates/base.html:116
+msgid "University"
+msgstr "Universitare"
+
+#: templates/base.html:125 templates/base.html:285 templates/base.html:756
+msgid "Phone"
+msgstr "Telefon"
+
+#: templates/base.html:127 templates/base.html:282
+msgid "Current City"
+msgstr "Oraș actual"
+
+#: templates/base.html:129
+msgid "Freelance"
+msgstr "Colaborare"
+
+#: templates/base.html:130
+msgid "Available"
+msgstr "Disponibil"
+
+#: templates/base.html:135
+msgid ""
+"I am an open and empathetic person, able to understand and connect with "
+"different perspectives and find smart solutions in complex situations. I "
+"like challenges and aim to approach them with optimism and determination, "
+"seeing every obstacle as an opportunity for personal growth and development. "
+"I am confident in my abilities to come up with new ideas and find innovative "
+"solutions."
+msgstr ""
+"Sunt o persoană deschisă și empatică, capabilă să înțeleagă și să se "
+"conecteze cu diferite perspective și să găsească soluții inteligente în "
+"situații complexe. Îmi plac provocările și îmi propun să le abordez cu "
+"optimism și determinare, văzând fiecare obstacol ca pe o oportunitate de "
+"creștere și dezvoltare personală. Am încredere în abilitățile mele de a veni "
+"cu idei noi și de a găsi soluții inovatoare."
+
+#: templates/base.html:148
+msgid "Facts"
+msgstr "Date"
+
+#: templates/base.html:149
+msgid ""
+"I have a passion for creativity and innovation, always looking to combine "
+"traditional solutions with fresh and unconventional ideas to solve the "
+"situations I face. I am an enthusiast of interdisciplinary collaboration and "
+"exchange of ideas, believing that diversity of perspectives brings value and "
+"innovation to any project."
+msgstr ""
+"Am o pasiune pentru creativitate și inovație, căutând mereu să combin "
+"soluțiile tradiționale cu idei noi și neconvenționale pentru a rezolva "
+"situațiile cu care mă confrunt. Sunt un entuziast al colaborării "
+"interdisciplinare și al schimbului de idei, considerând că diversitatea de "
+"perspective aduce valoare și inovație oricărui proiect."
+
+#: templates/base.html:159
+msgid "lines of code"
+msgstr "linii de cod"
+
+#: templates/base.html:168
+msgid "hours of coding"
+msgstr "ore de codare"
+
+#: templates/base.html:177
+msgid "personal projects"
+msgstr "proiecte personale"
+
+#: templates/base.html:186
+msgid "percent dedicated"
+msgstr "la sută dedicat"
+
+#: templates/base.html:200
+msgid "Skills"
+msgstr "Aptitudini"
+
+#: templates/base.html:201
+msgid ""
+"I am a results-oriented person with a pragmatic and practical approach to "
+"tasks and projects, always looking for effective and tangible solutions. I "
+"take responsibility and commitment in everything I do, always putting "
+"quality and excellence first and seeking to achieve my goals with "
+"determination and perseverance."
+msgstr ""
+"Sunt o persoană orientată spre rezultate, cu o abordare pragmatică și "
+"practică a sarcinilor și proiectelor, mereu în căutarea unor soluții "
+"eficiente și tangibile. Îmi asum responsabilitatea și angajamentul în tot "
+"ceea ce fac, punând întotdeauna calitatea și excelența pe primul loc și "
+"căutând să-mi ating obiectivele cu determinare și perseverență."
+
+#: templates/base.html:224
+msgid "SQL databases"
+msgstr "Baze de date SQL"
+
+#: templates/base.html:271
+msgid ""
+"I like to challenge myself and get out of my comfort zone, always looking to "
+"learn new things and constantly improve my skills in various areas."
+msgstr ""
+"Îmi plac provocările și îmi place să ies din zona de confort, căutând mereu "
+"să învăț lucruri noi și să-mi îmbunătățesc constant abilitățile în diverse "
+"domenii."
+
+#: templates/base.html:277
+msgid "Summary"
+msgstr "Sumar"
+
+#: templates/base.html:280
+msgid ""
+"Born in Sighetu Marmației, Maramureș, with solid principles, a meticulous "
+"approach and great attention to detail, I define myself as a dedicated "
+"perfectionist, motivated to achieve excellence in every aspect of my "
+"activities."
+msgstr ""
+"Născut în Sighetu Marmației, Maramureș, cu principii solide, o abordare "
+"meticuloasă și o mare atenție la detalii, mă definesc ca un perfecționist "
+"dedicat, motivat să ating excelența în fiecare aspect al activităților mele."
+
+#: templates/base.html:290
+msgid "Known Languages"
+msgstr "Limbi cunoscute"
+
+#: templates/base.html:294
+msgid "Pre-Intermediate"
+msgstr "Pre-intermediar"
+
+#: templates/base.html:298
+msgid "Italian"
+msgstr "Italiană"
+
+#: templates/base.html:300
+msgid "Elementary"
+msgstr "Elementar"
+
+#: templates/base.html:304
+msgid "Education"
+msgstr "Educație"
+
+#: templates/base.html:306
+msgid "Python from Scratch"
+msgstr "Python de la Zero"
+
+#: templates/base.html:307
+msgid "May 2023 - February 2024"
+msgstr "Mai 2023 - Februarie 2024"
+
+#: templates/base.html:311
+msgid ""
+"I learned to use the Python language and work with various technologies "
+"based on it, as well as manage code versions using the Git system and GitHub"
+msgstr ""
+"Am învățat să folosesc limbajul Python și să lucrez cu diverse tehnologii "
+"bazate pe acesta, precum și să gestionez versiunile de cod folosind sistemul "
+"Git și GitHub"
+
+#: templates/base.html:312
+msgid ""
+"I also gained practical knowledge in working with SQL databases, "
+"understanding their fundamental principles and how to interact with them"
+msgstr ""
+"De asemenea, am dobândit cunoștințe practice în lucrul cu baze de date SQL, "
+"înțelegând principiile lor fundamentale și cum să interacționez cu ele"
+
+#: templates/base.html:313
+msgid ""
+"In addition, I learned essential aspects of the HTTP protocol and acquired "
+"basic skills in developing and styling web pages using HTML, CSS and "
+"JavaScript"
+msgstr ""
+"În plus, am învățat aspecte esențiale ale protocolului HTTP și am dobândit "
+"abilități de bază în dezvoltarea și stilizarea paginilor web folosind HTML, "
+"CSS și JavaScript"
+
+#: templates/base.html:314
+msgid ""
+"I also explored the Django framework, which gave me a hands-on insight into "
+"web application development in Python, facilitating efficient database "
+"management and the creation of complex and scalable web applications"
+msgstr ""
+"De asemenea, am explorat arhitectura Django, care mi-a oferit o perspectivă "
+"practică asupra dezvoltării de aplicații web în Python, facilitând "
+"gestionarea eficientă a bazelor de date și crearea de aplicații web complexe "
+"și scalabile"
+
+#: templates/base.html:319
+msgid "Musical Pedagogy"
+msgstr "Pedagogie muzicală"
+
+#: templates/base.html:320
+msgid "October 2010 - July 2013"
+msgstr "Octombrie 2010 - Iulie 2013"
+
+#: templates/base.html:321
+msgid "National Academy of Music"
+msgstr "Academia Națională de Muzică"
+
+#: templates/base.html:323
+msgid ""
+"I acquired solid skills in planning and presenting lessons adapted to the "
+"individual needs of students, as well as in evaluating their musical progress"
+msgstr ""
+"Am dobândit abilități solide în planificarea și prezentarea lecțiilor "
+"adaptate nevoilor individuale ale elevilor, precum și în evaluarea "
+"progresului lor muzical"
+
+#: templates/base.html:324
+msgid ""
+"I also developed skills in managing classrooms and communicating effectively "
+"with students of different ages and skill levels, thereby facilitating a "
+"stimulating and inspiring learning environment"
+msgstr ""
+"De asemenea, am dezvoltat abilități în gestionarea sălilor de clasă și în "
+"comunicarea eficientă cu elevi de diferite vârste și niveluri de calificare, "
+"facilitând astfel un mediu de învățare stimulant și inspirator"
+
+#: templates/base.html:332
+msgid "Professional Experience"
+msgstr "Experiență profesională"
+
+#: templates/base.html:335
+msgid "November 2022 - Present"
+msgstr "Noiembrie 2022 - Prezent"
+
+#: templates/base.html:336 templates/base.html:348
+msgid "Real Estate"
+msgstr "Imobiliare"
+
+#: templates/base.html:338
+msgid ""
+"Excellent communication skills, facilitating sales and purchase processes "
+"and assisting the team in achieving goals"
+msgstr ""
+"Abilități excelente de comunicare, facilitând procesele de vânzare și "
+"cumpărare și asistând echipa în atingerea obiectivelor"
+
+#: templates/base.html:339
+msgid ""
+"Strong leadership and the ability to motivate and guide team members to "
+"success by coaching and developing their sales skills"
+msgstr ""
+"Abilități solide de lider și capacitatea de a motiva și ghida membrii "
+"echipei către succes prin coaching și dezvoltarea abilităților lor de vânzări"
+
+#: templates/base.html:340
+msgid ""
+"Proactive and customer-oriented attitude, ensuring effective and attentive "
+"management of customer relationships and meeting their needs adequately"
+msgstr ""
+"Atitudine proactivă și orientată către client, asigurând un management "
+"eficient și atent al relațiilor cu clienții și satisfacerea adecvată a "
+"nevoilor acestora"
+
+#: templates/base.html:341
+msgid ""
+"Excellent organizational skills and attention to detail, ensuring efficient "
+"and accurate management of the financial and contractual aspects of the "
+"company"
+msgstr ""
+"Excelente abilități organizatorice și atenție la detalii, asigurând un "
+"management eficient și precis al aspectelor financiare și contractuale ale "
+"companiei"
+
+#: templates/base.html:346
+msgid "Real Estate Broker"
+msgstr "Broker imobiliar"
+
+#: templates/base.html:347
+msgid "October 2021 - October 2022"
+msgstr "Octombrie 2021 - Octombrie 2022"
+
+#: templates/base.html:352
+msgid "HoReCa Sales Agent"
+msgstr "Agent de vânzări HoReCa"
+
+#: templates/base.html:353
+msgid "October 2017 - February 2019"
+msgstr "Octombrie 2017 - Februarie 2019"
+
+#: templates/base.html:354 templates/base.html:360 templates/base.html:370
+msgid "Distribution"
+msgstr "Distribuție"
+
+#: templates/base.html:358
+msgid "Billing Clerk"
+msgstr "Operator facturare"
+
+#: templates/base.html:359
+msgid "December 2016 - June 2017"
+msgstr "Decembrie 2016 - Iunie 2017"
+
+#: templates/base.html:362
+msgid ""
+"I gained skills in managing invoices, issuing and organizing invoices for "
+"each vehicle and recording stock invoices in the database"
+msgstr ""
+"Am acumulat abilități în gestionarea facturilor, emițând și organizând "
+"facturile pentru fiecare vehicul și înregistrând facturile de stoc în baza "
+"de date"
+
+#: templates/base.html:363
+msgid ""
+"I gained knowledge in accounting management, recording invoices, payment "
+"orders and agent receipts for primary accounting"
+msgstr ""
+"Am acumulat cunoștințe în managementul contabilității, înregistrând "
+"facturile, ordinele de plată și chitanțele agenților pentru contabilitatea "
+"primară"
+
+#: templates/base.html:368
+msgid "Retail / HoReCa Sales Agent"
+msgstr "Agent de vânzări Retail / HoReCa"
+
+#: templates/base.html:369
+msgid "October 2014 - October 2016"
+msgstr "Octombrie 2014 - Octombrie 2016"
+
+#: templates/base.html:372
+msgid ""
+"I have acquired solid negotiation skills, working to expand the client "
+"portfolio and conclude contracts for easier achievement of monthly targets"
+msgstr ""
+"Am dobândit abilități solide de negociere, lucrând la extinderea "
+"portofoliului de clienți și încheierea de contracte pentru realizarea mai "
+"ușoară a obiectivelor lunare"
+
+#: templates/base.html:373
+msgid ""
+"I learned to collaborate effectively in a team, working together to help "
+"each other achieve our monthly objectives"
+msgstr ""
+"Am învățat să colaborez eficient în echipă, lucrând împreună pentru a ne "
+"ajuta reciproc să ne atingem obiectivele lunare"
+
+#: templates/base.html:374
+msgid ""
+"I excelled in organization, scheduling client visits based on the "
+"availability of decision makers and efficiently managing the collection of "
+"overdue invoices"
+msgstr ""
+"Am excelat în organizare, programând vizite la clienți în funcție de "
+"disponibilitatea factorilor de decizie și gestionând eficient încasarea "
+"facturilor restante"
+
+#: templates/base.html:391
+msgid ""
+"Passionate about every project I get involved in, my dedication and "
+"meticulous attention to every detail is evident. I leverage my creativity "
+"and technical skills to produce high quality results and continuously evolve "
+"in the area of web development."
+msgstr ""
+"Pasionat de fiecare proiect în care mă implic, dăruirea și atenția mea "
+"meticuloasă la fiecare detaliu sunt evidente. Îmi valorific creativitatea și "
+"abilitățile tehnice pentru a produce rezultate de înaltă calitate și pentru "
+"a evolua continuu în domeniul dezvoltării web."
+
+#: templates/base.html:397
+msgid "All"
+msgstr "Tot"
+
+#: templates/base.html:398
+msgid "Real Estate CRM"
+msgstr "CRM Imobiliar"
+
+#: templates/base.html:408 templates/base.html:411 templates/base.html:414
+msgid "Login Page"
+msgstr "Pagina de conectare"
+
+#: templates/base.html:410 templates/base.html:608
+msgid "Authentication"
+msgstr "Autentificare"
+
+#: templates/base.html:426 templates/base.html:429 templates/base.html:432
+msgid "Leads Menu"
+msgstr "Meniu cereri"
+
+#: templates/base.html:428
+msgid "Sidebar"
+msgstr "Bara laterală"
+
+#: templates/base.html:444 templates/base.html:447 templates/base.html:450
+msgid "Customization Menu"
+msgstr "Meniu de personalizare"
+
+#: templates/base.html:446
+msgid "System Design Settings"
+msgstr "Setări design sistem"
+
+#: templates/base.html:462 templates/base.html:465 templates/base.html:468
+msgid "Horizontal Layout"
+msgstr "Aspect orizontal"
+
+#: templates/base.html:464 templates/base.html:482
+msgid "Layouts"
+msgstr "Aspecte"
+
+#: templates/base.html:480 templates/base.html:483 templates/base.html:486
+msgid "Compact Vertical Layout"
+msgstr "Aspect vertical compact"
+
+#: templates/base.html:498 templates/base.html:501 templates/base.html:504
+msgid "Light Layout"
+msgstr "Aspect luminos"
+
+#: templates/base.html:500 templates/base.html:518 templates/base.html:536
+#: templates/base.html:554 templates/base.html:572 templates/base.html:590
+msgid "Leads"
+msgstr "Cereri"
+
+#: templates/base.html:516 templates/base.html:519 templates/base.html:522
+msgid "Dark Layout"
+msgstr "Aspect întunecat"
+
+#: templates/base.html:534 templates/base.html:537 templates/base.html:540
+msgid "Add New Lead Menu"
+msgstr "Meniu de adăugare cerere nouă"
+
+#: templates/base.html:552 templates/base.html:555 templates/base.html:558
+msgid "Add New Contact Modal"
+msgstr "Modal de adăugare contact nou"
+
+#: templates/base.html:570 templates/base.html:573 templates/base.html:576
+msgid "Create New Lead (Light Layout)"
+msgstr "Creează cerere nouă (Aspect luminos)"
+
+#: templates/base.html:588 templates/base.html:591 templates/base.html:594
+msgid "Create New Lead (Dark Layout)"
+msgstr "Creează cerere nouă (Aspect întunecat)"
+
+#: templates/base.html:606 templates/base.html:609 templates/base.html:612
+msgid "Change Password Page"
+msgstr "Pagina de schimbare a parolei"
+
+#: templates/base.html:632
+msgid ""
+"As a junior Python programmer, I make valuable contributions through web "
+"development, automation of administrative tasks and project assistance, "
+"increasing the efficiency and effectiveness of any organization's operations."
+msgstr ""
+"În calitate de programator Python junior, aduc contribuții valoroase prin "
+"dezvoltarea web, automatizarea sarcinilor administrative și asistența la "
+"proiecte, crescând eficiența și eficacitatea operațiunilor oricărei "
+"organizații."
+
+#: templates/base.html:646
+msgid "Website development and maintenance"
+msgstr "Dezvoltare și întreținere site"
+
+#: templates/base.html:647
+msgid ""
+"Creating and updating websites using frameworks like Django. These sites can "
+"include presentation pages, personal portfolios, online stores, etc."
+msgstr ""
+"Creare și actualizare site-uri web folosind arhitecturi precum Django. "
+"Aceste site-uri pot include pagini de prezentare, portofolii personale, "
+"magazine online etc."
+
+#: templates/base.html:661
+msgid "Automation of administrative tasks"
+msgstr "Automatizare sarcini administrative"
+
+#: templates/base.html:662
+msgid ""
+"Writing Python scripts to automate repetitive tasks within the organization "
+"such as processing files, extracting data from databases, generating "
+"automated reports, etc."
+msgstr ""
+"Scriere de scripturi Python pentru automatizarea sarcinilor repetitive din "
+"cadrul organizației, cum ar fi procesarea fișierelor, extragerea datelor din "
+"baze de date, generarea de rapoarte automate etc."
+
+#: templates/base.html:676
+msgid "Development of data analysis and reporting tools"
+msgstr "Dezvoltare instrumente de analiză și raportare a datelor"
+
+#: templates/base.html:677
+msgid ""
+"Creating scripts and programs to help with data analysis and processing, "
+"such as generating graphs, calculating statistics or manipulating CSV files"
+msgstr ""
+"Creare de scripturi și programe pentru a ajuta la analiza și procesarea "
+"datelor, cum ar fi generarea de grafice, calcularea statisticilor sau "
+"manipularea fișierelor CSV"
+
+#: templates/base.html:690
+msgid "Desktop application development"
+msgstr "Dezvoltare de aplicații desktop"
+
+#: templates/base.html:691
+msgid ""
+"Creating desktop applications to solve specific problems, such as task "
+"management applications, note-taking applications, file conversion "
+"applications, etc."
+msgstr ""
+"Creare de aplicații desktop pentru a rezolva probleme specifice, cum ar fi "
+"aplicații de gestionare a sarcinilor, aplicații de luare notițe, aplicații "
+"de conversie a fișierelor etc."
+
+#: templates/base.html:704
+msgid "Assist in the development of larger projects"
+msgstr "Asistență în dezvoltarea de proiecte mai mari"
+
+#: templates/base.html:705
+msgid ""
+"Providing support and help for more complex projects under the supervision "
+"of a senior programmer or mentor. This may include developing features, "
+"writing unit tests, troubleshooting code, etc."
+msgstr ""
+"Oferirea de sprijin și ajutor pentru proiecte mai complexe sub supravegherea "
+"unui programator sau mentor senior. Acesta poate include dezvoltarea de "
+"funcții, scriere de teste unitare, cod de depanare etc."
+
+#: templates/base.html:718
+msgid "Maintain and debug existing code"
+msgstr "Menținere și depanare cod existent"
+
+#: templates/base.html:719
+msgid ""
+"Ensuring existing code works correctly, identifying and fixing bugs, and "
+"improving code to meet new requirements and standards"
+msgstr ""
+"Asigurarea funcționării corecte a codului existent, identificarea și "
+"remedierea erorilor și îmbunătățirea codului pentru a îndeplini noile "
+"cerințe și standarde"
+
+#: templates/base.html:743
+msgid "Location"
+msgstr "Locație"
+
+#: templates/base.html:771
+msgid "Your Name"
+msgstr "Numele tău"
+
+#: templates/base.html:776
+msgid "Your E-mail"
+msgstr "Adresa de e-mail"
+
+#: templates/base.html:782
+msgid "Subject"
+msgstr "Subiect"
+
+#: templates/base.html:787
+msgid "Message"
+msgstr "Mesaj"
+
+#: templates/base.html:791
+msgid "Sending..."
+msgstr "Se trimite..."
+
+#: templates/base.html:792
+msgid "Something went wrong! Please try again or use another contact method."
+msgstr ""
+"Ceva nu a funcționat bine! Te rog să încerci din nou sau să utilizezi o altă "
+"metodă de contact."
+
+#: templates/base.html:793
+msgid ""
+"Your message has been sent successfully. I will reply as soon as possible. "
+"Thank you!"
+msgstr ""
+"Mesajul tău a fost trimis cu succes. Voi reveni cu un răspuns cât mai "
+"curând. Mulțumesc!"
+
+#: templates/base.html:797
+msgid "Send Message"
+msgstr "Trimite mesajul"
+
+#: templates/base.html:815
+msgid "Whether you think you can or you think you can't, you're right"
+msgstr "Fie că crezi că poți sau crezi că nu poți, ai dreptate"
+
+#: templates/base.html:824
+msgid "Copyright"
+msgstr "Drepturi de autor"
+
+#: templates/base.html:826
+msgid "All Rights Reserved"
+msgstr "Toate drepturile rezervate"
+
+#: templates/portfolio_details.html:137
+msgid "Project Information"
+msgstr "Informații proiect"
+
+#: templates/portfolio_details.html:139
+msgid "Category"
+msgstr "Categorie"
+
+#: templates/portfolio_details.html:139
+msgid "Customer Relationship Management System"
+msgstr "Sistem de management al relațiilor cu clienții"
+
+#: templates/portfolio_details.html:140
+msgid "Framework"
+msgstr "Arhitectură"
+
+#: templates/portfolio_details.html:148
+msgid ""
+"An efficient real estate CRM, designed to facilitate the management of "
+"properties, requests, contacts and tasks, being an indispensable tool for "
+"real estate agents and professionals in the field."
+msgstr ""
+"Un CRM imobiliar eficient, menit să faciliteze gestionarea proprietăților, "
+"cererilor, contactelor și sarcinilor, fiind un instrument indispensabil "
+"agenților imobiliari și profesioniștilor în domeniu."
